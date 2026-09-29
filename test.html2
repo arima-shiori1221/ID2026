@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>&TEAM</title>
+    </head>
+    <body>
+        <h2>紹介</h2>
+    <ul>
+        <li>K</li>
+        <li>FUMA</li>
+        <li>NICHOLAS</li>
+        <li>EJ</li>
+        <li>YUMA</li>
+        <li>JO</li>
+        <li>HARUA</li>
+        <li>TAKI</li>
+        <li>MAKI</li>
+    </ul>
+    <dl>
+        <dt>魅力</dt>
+        <dd>個性豊かな9人が生み出す息のあったパフォーマンス</dd>
+    <br>
+    <img src="https://officialsite.cds-jp.online/prod/main/106/79/667e0582fdaa45eeaf4bf19d383576a6.webp">
